@@ -46,7 +46,7 @@ A task management tool with Spring Boot and MySQL. Technologies used: Spring Boo
 
 ### LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/johndoe?theme=light&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kesavan-perumalswamy?ext=heatmap)
 
 ### Blog Posts
 
