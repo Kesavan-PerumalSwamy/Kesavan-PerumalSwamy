@@ -23,14 +23,7 @@ I'm a passionate Full Stack Developer with a love for building web applications 
 
 ### Projects
 
-#### [Weather App](https://github.com/johndoe/weatherapp)
-A weather forecasting app using React and Node.js. Technologies used: React, Node.js, MongoDB.
-
-#### [E-commerce Platform](https://github.com/johndoe/ecommerce-platform)
-An online marketplace built with Django and PostgreSQL. Technologies used: Django, PostgreSQL.
-
-#### [Task Manager](https://github.com/johndoe/taskmanager)
-A task management tool with Spring Boot and MySQL. Technologies used: Spring Boot, MySQL.
+##### Under Maintance *(Listing Soon* 😊)
 
 ### GitHub Stats
 
