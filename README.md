@@ -41,11 +41,9 @@ I'm a passionate Full Stack Developer with a love for building web applications 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kesavan-perumalswamy?ext=heatmap)
 
-### Blog Posts
+### Medium Posts
 
-- [How to Build a REST API with Node.js](https://yourblog.com/post1)
-- [Understanding Django ORM](https://yourblog.com/post2)
-- [Containerization with Docker](https://yourblog.com/post3)
+
 
 ### Contact Me
 
