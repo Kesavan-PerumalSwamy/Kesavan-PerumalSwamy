@@ -42,8 +42,8 @@ I'm a passionate Full Stack Developer with a love for building web applications 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kesavan-perumalswamy?ext=heatmap)
 
 ### Medium Posts
-
-
+-[Unveiling Tomorrow’s Digital Canvas: Web Development Odyssey 2024](https://medium.com/@kesavanWebDev/unveiling-tomorrows-digital-canvas-web-development-odyssey-2024-8290ad223089)
+-
 
 ### Contact Me
 
