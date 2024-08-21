@@ -1,7 +1,7 @@
 # Hi there, I'm Kesavan Perumalsamy 👋
 ## Full Stack Developer | Web Designer | Tech Blogger 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://in.linkedin.com/in/kesavanperumalsamy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kesavanperumalswamy/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Kesavan-PerumalSwamy)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kesavan-PerumalSwamy)
 
